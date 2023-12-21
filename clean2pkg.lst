@@ -1,0 +1,1 @@
+pkg="bolt bluez* btrfs-progs cockpit* containerd cryptsetup* device-mapper* docker-compose docker-compose-v2 docker-doc docker.io dmsetup flatpak* iscsi* lsscsi lvm2 mdadm ntfs-3g open-iscsi os-prober pipewire* podman* runc snapd snappy sg3-utils telnet thin-provisioning-tools xfsprogs"
